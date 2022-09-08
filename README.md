@@ -4,16 +4,17 @@
 
 Email: [maggieholahan@u.boisestate.edu](mailto:maggieholahan@u.boisestate.edu)
 
-1. Goal 1
-2. Goal 2
-3. Goal 3
+1. Goal 1 : Implement Python language in my research
+2. Goal 2 : Be more independent at troubleshooting
+3. Goal 3 : Set deadlines and be better with SMART goal progression
 
 ## SMART Goals
 
-
-| S | Specific |
+| Letter   | Description |
+| -------- | -------- |
+| S | Specific    |
 | M | Measureable |
-| A | Achievable |
-| R | Relevant |
-| T | Time-bound |
-|---|-------------|
+| A | Achievable  |
+| R | Relevant    |
+| T | Time-bound  |
+
