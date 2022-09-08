@@ -2,4 +2,4 @@
 
 ## Maggie Holahan
 
-Email: [maggieholahan@u.boisestate.edu](maggieholahan@u.boisestate.edu)
+Email: [maggieholahan@u.boisestate.edu](mailto:maggieholahan@u.boisestate.edu)
